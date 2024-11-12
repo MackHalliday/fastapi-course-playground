@@ -1,0 +1,1 @@
+Building a Fast-API application using [course from FreeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)
